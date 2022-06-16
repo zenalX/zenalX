@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdo-Zenaldeeen
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me on twitter @abdo_zenaldeen
 
